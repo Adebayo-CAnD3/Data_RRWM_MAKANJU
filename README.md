@@ -21,7 +21,12 @@ Software Requirements Stata/SE 15.0
 
 Machine Information The analyses were conducted using Hp Windows 10 Home version AMD A10-5750M APU with Radeon(tm) HD Graphics 2.50 GHz
 
-STUDY OUTLINE
+Data analysis Plan
+
+Data upload and exploration
+
+The dataset was downloaded from the 
+
 
 Research question: Is old age home ownership in Canada determined by individualized social economic status?
 
